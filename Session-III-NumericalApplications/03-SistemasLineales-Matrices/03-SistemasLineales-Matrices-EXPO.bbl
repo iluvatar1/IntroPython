@@ -1,0 +1,66 @@
+\begin{thebibliography}{10}
+
+\bibitem{chapra2012AppliedNumericalMethods}
+Steven~C Chapra.
+\newblock {\em Applied Numerical Methods with {{MATLAB}} for {{Engineers}} and
+  {{Scientists}}.}
+\newblock {McGraw-Hill}, 2012.
+
+\bibitem{cheney2012numerical}
+E~Ward Cheney and David~R Kincaid.
+\newblock {\em Numerical mathematics and computing}.
+\newblock Cengage Learning, 2012.
+
+\bibitem{osais2017computer}
+Yahya~Esmail Osais.
+\newblock {\em Computer {{Simulation}}: {{A Foundational Approach Using
+  Python}}}.
+\newblock {Chapman and Hall/CRC}, 2017.
+
+\bibitem{savov2014no}
+Ivan Savov.
+\newblock {\em No bullshit guide to math and physics}.
+\newblock Minireference Co., 2014.
+
+\bibitem{Sirca2012}
+Simon Sirca and Martin Horvat.
+\newblock {\em Computational {{Methods}} for {{Physicists}}}.
+\newblock {Springer Berlin Heidelberg}, 2012.
+
+\bibitem{rossant2015learning}
+Cyrille Rossant.
+\newblock {\em Learning {{IPython}} for Interactive Computing and Data
+  Visualization}.
+\newblock {Packt Publishing Ltd}, 2015.
+
+\bibitem{varoquaux2015scipy}
+Ga\"el Varoquaux, Emmanuelle Gouillart, Olav Vahtras, Valentin Haenel,
+  Nicolas~P Rougier, Ralf Gommers, Fabian Pedregosa, Zbigniew
+  {J\k{e}drzejewski-Szmek}, Pauli Virtanen, Christophe Combelles, and {others}.
+\newblock Scipy {{Lecture Notes}}.
+\newblock 2015.
+
+\bibitem{kiusalaas2013numerical}
+Jaan Kiusalaas.
+\newblock {\em Numerical Methods in Engineering with {{Python}} 3}.
+\newblock {Cambridge university press}, 2013.
+
+\bibitem{book:1405516}
+Philip~Nelson Jesse M.~Kinder.
+\newblock {\em A {{Student}}'s {{Guide}} to {{Python}} for {{Physical
+  Modeling}}}.
+\newblock {Princeton University Press}, 2015.
+
+\bibitem{johansson2015numerical}
+Robert Johansson.
+\newblock {\em Numerical {{Python}}. {{A Practical Techniques Approach}} for
+  {{Industry}}}.
+\newblock {Apress}, 2015.
+
+\bibitem{book:1195690}
+John~V. Guttag.
+\newblock {\em Introduction to {{Computation}} and {{Programming Using
+  Python}}, {{Revised}} \& {{Expanded}}}.
+\newblock {The MIT Press}, revised and expanded edition edition, 2013.
+
+\end{thebibliography}

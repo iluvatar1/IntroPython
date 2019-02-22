@@ -1,0 +1,25 @@
+#+INCLUDE: ~/latex/org-html-readtheorg-theme.org
+
+#+TITLE: Introduction to Python
+#+AUTHOR: William Oquendo
+#+EMAIL: william.oquendo@unisabana.edu.co
+
+* Session I : Installation  and Introduction
+** What Python can do
+   - https://github.com/vinta/awesome-python
+   - https://www.infoworld.com/article/3164409/application-development/hidden-gems-14-python-libraries-too-good-to-overlook.html#slide2
+** How to install/use python
+** How to install libraries 
+** Some simple examples
+*** Loops
+*** String processing
+*** Numerical computation
+*** Simple plotting
+* Session II : Data Analysis and Visualization
+** Resources
+   - https://towardsdatascience.com/pyviz-simplifying-the-data-visualisation-process-in-python-1b6d2cb728f1
+   - http://pyviz.org/tutorial/12_Parameters_and_Widgets.html
+   - https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-one-getting-started-a11655a467d4
+   - https://ipyvolume.readthedocs.io/en/latest/
+
+* Session III : Numerical and other applications

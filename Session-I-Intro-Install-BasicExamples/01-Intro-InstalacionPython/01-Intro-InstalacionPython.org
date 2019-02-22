@@ -1,0 +1,15 @@
+* Refs
+** General 
+   - https://software-carpentry.org/lessons/
+** Industrial Engineering
+   - Python in industrial engineering : https://docs.google.com/presentation/d/15FgBd6ieePoraalQuq4XVg71TuiY9Ve6llbwiEZMTOY/mobilepresent#slide=id.gb185b1b7_05
+   - Industrial Engineering problem solving in Python : https://github.com/mburaksayici/Industrial-Engineering-Problem-Solving-with-Python-1
+   - 
+** Chemical Engineering 
+   - https://github.com/CAChemE/learn#chemical-and-process-engineering-interactive-simulations
+   - https://mybinder.org/v2/gh/CAChemE/learn/master
+   - Process Dynamics and Control: https://github.com/alchemyst/Dynamics-and-Control/blob/master/README.md
+   - Cantera : http://www.cantera.org/docs/sphinx/html/index.html
+   - CatMap : http://catmap.readthedocs.io/en/latest/
+   - Python for Chemical Engineers: https://github.com/CAChemE/Python-Chemical-Engineers/blob/master/README.md
+   - 

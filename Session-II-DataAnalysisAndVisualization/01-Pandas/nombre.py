@@ -1,0 +1,5 @@
+fig, axes = plt.subplots(1, 3, figsize=(12, 3))
+s.plot(ax=axes[0], kind='line', title='line')
+s.plot(ax=axes[1], kind='bar', title='bar')
+s.plot(ax=axes[2], kind='pie', title='pie')
+fig.savefig("fig.pdf")
